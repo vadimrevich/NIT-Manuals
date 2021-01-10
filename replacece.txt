@@ -1,0 +1,14 @@
+Templates: *.txt;*.md;*.vbs;*.js;*.;*.bas;*.vb;*.ps1;*.bat;*.cmd;*.sh;*.iss;*.wxs;*.ini;*.json;*.xlml;*.nuspec
+
+Search: dummy.mydomen.com
+Replace: file.tuneserv.ru
+
+Search: MyAdminPassword
+Replace: Admin01234
+
+Search: MyAdminAccount
+Replace: MSSQLSR
+
+Search: C:\CODE\Compile
+Replace: e:\yuden\Compile
+
